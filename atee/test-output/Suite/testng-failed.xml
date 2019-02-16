@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.pts.test.suite.VerifyAmazonPrimePage">
+        <methods>
+          <include name="verifyAmazonPrime"/>
+        </methods>
+      </class> <!-- com.pts.test.suite.VerifyAmazonPrimePage -->
+      <class name="com.pts.test.suite.SearchProductInAmazonHome">
+        <methods>
+          <include name="setup"/>
+          <include name="preSuit"/>
+          <include name="loadLog4j"/>
+          <include name="getWebDriver"/>
+          <include name="searchProduct"/>
+        </methods>
+      </class> <!-- com.pts.test.suite.SearchProductInAmazonHome -->
+      <class name="com.pts.test.suite.VerifyCartPage">
+        <methods>
+          <include name="searchProduct"/>
+        </methods>
+      </class> <!-- com.pts.test.suite.VerifyCartPage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
