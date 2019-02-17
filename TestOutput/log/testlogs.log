@@ -1,0 +1,39 @@
+2019-02-17 03:17:51,673  INFO [main] (BaseClass.java:43) - BASE CLASS BEFORE_CLASS
+2019-02-17 03:17:51,747  INFO [main] (WebDriverSelector.java:35) - Browser selected : CHROME
+2019-02-17 03:18:08,827  INFO [main] (WebDriverSelector.java:105) - Browser Started >>>>>>> 
+2019-02-17 03:18:08,827  INFO [main] (WebDriverSelector.java:108) - Browser selection done
+2019-02-17 03:18:22,527  INFO [main] (VerifyCartPage.java:21) - Search Product In Amazon Home page
+2019-02-17 03:18:44,383  INFO [main] (AmazonMenuNavigationFixture.java:47) - Click on topMenu.getCartIcon
+2019-02-17 03:18:44,386  INFO [main] (BaseClass.java:124) - BASE CLASS AFTER_METHOD
+2019-02-17 03:18:44,386  INFO [main] (BaseClass.java:146) - searchProduct -- TEST SCENARIO PASSED
+2019-02-17 03:18:46,202  INFO [main] (BaseClass.java:66) - BASE CLASS AFTER_SUITE
+2019-02-17 03:18:46,295  INFO [main] (BaseClass.java:68) - Extent report Closed
+2019-02-17 03:18:46,551  INFO [main] (BaseClass.java:88) - E:\Automation\Jenkins_Home\.jenkins\jobs\SalesForce_Regression\workspace\Extent_Report\Automation_Report_20190217_031751.html
+2019-02-17 03:18:46,552  INFO [main] (BaseClass.java:89) - E:\Automation\Jenkins_Home\.jenkins\jobs\SalesForce_Regression\workspace\Extent_Report\Automation_Report_SalesForce.html
+2019-02-17 03:18:46,553  INFO [main] (BaseClass.java:91) - Move report file success
+2019-02-17 03:34:53,403  INFO [main] (BaseClass.java:43) - BASE CLASS BEFORE_CLASS
+2019-02-17 03:34:53,421  INFO [main] (WebDriverSelector.java:35) - Browser selected : CHROME
+2019-02-17 03:34:58,000  INFO [main] (WebDriverSelector.java:105) - Browser Started >>>>>>> 
+2019-02-17 03:34:58,000  INFO [main] (WebDriverSelector.java:108) - Browser selection done
+2019-02-17 03:35:07,099  INFO [main] (VerifyCartPage.java:21) - Search Product In Amazon Home page
+2019-02-17 03:35:09,315  INFO [main] (AmazonMenuNavigationFixture.java:47) - Click on topMenu.getCartIcon
+2019-02-17 03:35:09,317  INFO [main] (BaseClass.java:124) - BASE CLASS AFTER_METHOD
+2019-02-17 03:35:09,318  INFO [main] (BaseClass.java:146) - searchProduct -- TEST SCENARIO PASSED
+2019-02-17 03:35:10,689  INFO [main] (BaseClass.java:66) - BASE CLASS AFTER_SUITE
+2019-02-17 03:35:10,713  INFO [main] (BaseClass.java:68) - Extent report Closed
+2019-02-17 03:35:10,776  INFO [main] (BaseClass.java:88) - E:\Automation\Jenkins_Home\.jenkins\jobs\SalesForce_Regression\workspace\Extent_Report\Automation_Report_20190217_033453.html
+2019-02-17 03:35:10,777  INFO [main] (BaseClass.java:89) - E:\Automation\Jenkins_Home\.jenkins\jobs\SalesForce_Regression\workspace\Extent_Report\Automation_Report_SalesForce.html
+2019-02-17 03:35:10,777  INFO [main] (BaseClass.java:91) - Move report file success
+2019-02-17 16:04:21,755  INFO [main] (BaseClass.java:43) - BASE CLASS BEFORE_CLASS
+2019-02-17 16:04:21,775  INFO [main] (WebDriverSelector.java:35) - Browser selected : CHROME
+2019-02-17 16:04:24,982  INFO [main] (WebDriverSelector.java:105) - Browser Started >>>>>>> 
+2019-02-17 16:04:24,982  INFO [main] (WebDriverSelector.java:108) - Browser selection done
+2019-02-17 16:04:28,960  INFO [main] (VerifyCartPage.java:21) - Search Product In Amazon Home page
+2019-02-17 16:04:30,246  INFO [main] (AmazonMenuNavigationFixture.java:47) - Click on topMenu.getCartIcon
+2019-02-17 16:04:30,248  INFO [main] (BaseClass.java:124) - BASE CLASS AFTER_METHOD
+2019-02-17 16:04:30,248  INFO [main] (BaseClass.java:146) - searchProduct -- TEST SCENARIO PASSED
+2019-02-17 16:04:31,195  INFO [main] (BaseClass.java:66) - BASE CLASS AFTER_SUITE
+2019-02-17 16:04:31,217  INFO [main] (BaseClass.java:68) - Extent report Closed
+2019-02-17 16:04:31,284  INFO [main] (BaseClass.java:88) - E:\Automation\Jenkins_Home\.jenkins\jobs\SalesForce_Regression\workspace\Extent_Report\Automation_Report_20190217_160421.html
+2019-02-17 16:04:31,284  INFO [main] (BaseClass.java:89) - E:\Automation\Jenkins_Home\.jenkins\jobs\SalesForce_Regression\workspace\Extent_Report\Automation_Report_SalesForce.html
+2019-02-17 16:04:31,285  INFO [main] (BaseClass.java:91) - Move report file success
